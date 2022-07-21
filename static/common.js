@@ -1,3 +1,4 @@
+window.location.href='https://novel.xxyopen.com';
 //取得对象，绑定自定义函数
 function $_(e) {
     if (typeof e == 'string') {
